@@ -1,6 +1,7 @@
 package com.example.library.model.dto;
 
-import java.util.Locale;
+import com.example.library.model.entity.Category;
+import com.example.library.model.entity.User;
 
 public class BookDto {
     private String name;
